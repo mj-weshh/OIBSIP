@@ -1,4 +1,4 @@
-#BMI Calculator
+#BMI Calculator 
 This Python script implements a Body Mass Index (BMI) calculator. The BMI is a measure of body fat based on weight and height. The script includes functions to calculate the BMI and classify it into different categories such as underweight, normal weight, overweight, or obese.
 
 ##BMI Calculation Formula
